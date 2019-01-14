@@ -1,0 +1,8 @@
+#Students - you do not need to use this file for anything. This was a note I added to remind myself 
+#of how to compile multiple java files from the command line and place them in a .jar file.
+
+How to compile source code from the command line, create a portable jar file, and run that jar file:
+
+C:\repos\courses\nonCurrent\csce093\code\Implementation\BattleShip>javac -sourcepath /src/BattleShip -d temp src/Battleship/*.java
+
+C:\repos\courses\nonCurrent\csce093\code\Implementation\BattleShip>jar -cfe Nykl_BattleShip.jar BattleShip.GameManager -C temp/ .

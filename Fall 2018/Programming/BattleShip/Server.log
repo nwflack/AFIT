@@ -1,0 +1,41 @@
+C:\repos\courses\nonCurrent\csce093\code\Implementation\BattleShip>java -jar Nykl_BattleShip.jar
+<<<---BattleShip--->>>
+Waiting for two players to connect to TCP:10000
+A client has joined...
+A client has joined...
+Done listening for clients to join into Battleship game...
+Clients have joined!!!
+
+
+
+Player initialization is complete!!! Your Gameboard looks like:
+
+Waiting for other player to finish their setup, then war will ensue!
+
+
+
+Player initialization is complete!!! Your Gameboard looks like:
+
+Waiting for other player to finish their setup, then war will ensue!
+Player A vs Player B Let's Rumble...
+New Strike!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+Ship DestroyB was destroyed!!!
+New Strike!!!
+New Strike!!!
+Ship DestroyA was destroyed!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+New Strike!!!
+Ship CruiserA was destroyed!!!
+New Strike!!!
+Ship CruiserB was destroyed!!!
+Shutting down server now... Disconnecting Clients...
+
+C:\repos\courses\nonCurrent\csce093\code\Implementation\BattleShip>

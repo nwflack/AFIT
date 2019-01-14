@@ -1,0 +1,310 @@
+ ...Welcome to Battleship...
+   Please wait for other player to join.
+Enter Player Name:
+Player A
+D 2 4 S DestroyA
+C 3 5 N CruiserA
+F 0 0
+F 1 0
+F 2 0
+F 0 1
+F 1 1
+F 2 1
+F 3 1   You will now place 2 ships. You may choose between either a Cruiser (C)
+   and Destroyer (D)...
+   Enter Ship info. An example input looks like:
+
+D 2 4 S USS MyBoat
+
+   The above line creates a Destroyer with the stern located at x=2 (col),
+   y=4 (row) and the front of the ship will point to the SOUTH (valid
+   headings are N, E, S, and W.
+
+
+   the name of the ship will be "USS MyBoat"
+Enter Ship 1 information:
+Added ship DestroyA successfully...
+
++----------+
+|          |
+|          |
+|          |
+|          |
+|  D       |
+|  D       |
+|  D       |
+|          |
+|          |
+|          |
++----------+
+
+Added ship CruiserA successfully...
+
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  DC      |
+|  DC      |
+|  D       |
+|          |
+|          |
+|          |
++----------+
+
+
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  DC      |
+|  DC      |
+|  D       |
+|          |
+|          |
+|          |
++----------+
+
+
+
+   Missiles Away! Game has begun
+   To Launch a missle at your enemy:
+F 2 4
+Fires a missile at coordinate x=2, y=4.
+Direct Strike to DestroyB... Ouch...
+------------------------
+Target Board:
++----------+
+|x         |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  DC      |
+|  DC      |
+|  D       |
+|          |
+|          |
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+Direct Strike to DestroyB... Ouch...
+------------------------
+Target Board:
++----------+
+|xx        |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  DC      |
+|  DC      |
+|  D       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+Direct Strike to DestroyB... Ouch...
+DestroyB is swimming with the fishes...
+------------------------
+Target Board:
++----------+
+|xxx       |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  dC      |
+|  DC      |
+|  D       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+Direct Strike to CruiserB... Ouch...
+------------------------
+Target Board:
++----------+
+|xxx       |
+|x         |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  dC      |
+|  dC      |
+|  D       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+Direct Strike to CruiserB... Ouch...
+------------------------
+Target Board:
++----------+
+|xxx       |
+|xx        |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  dC      |
+|  dC      |
+|  d       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+Direct Strike to CruiserB... Ouch...
+------------------------
+Target Board:
++----------+
+|xxx       |
+|xxx       |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   C      |
+|   C      |
+|  dC      |
+|  dc      |
+|  d       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+
+Direct Strike to CruiserB... Ouch...
+CruiserB is swimming with the fishes...
+------------------------
+Target Board:
++----------+
+|xxx       |
+|xxxx      |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+Your Ships:
++----------+
+|          |
+|          |
+|   c      |
+|   c      |
+|  dC      |
+|  dc      |
+|  d       |
+|          |
+|         x|
+|         x|
++----------+
+
+   Waiting for Next Command...
+
+
+YOU HAVE WON! ALL ENEMY SHIPS ARE SUNK!!!
